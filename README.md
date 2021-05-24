@@ -1,5 +1,4 @@
-- UwU Parker
-- OwO I like to break windows
-- SSG Shell Script Goblin
-- BWA Break Windows, use Arch Linux
-- 📫 reach me at 'greenwoodsky891@gmail.com' or on Discord 'Parker#4527'
+- Parker
+- I like to break windows
+- Shell Script Goblin for life
+- reach me at 'greenwoodsky891@gmail.com' or on Discord 'Parker#4527'
