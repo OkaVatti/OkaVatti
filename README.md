@@ -1,4 +1,4 @@
-- # Parker
+- # Parker Uzuki / OkaVatti
 - ## I like to break windows
 - ## Shell Script Goblin for life
 - ### you reach me at 
