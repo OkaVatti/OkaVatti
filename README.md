@@ -3,8 +3,8 @@
 - ## Shell Script Goblin for life
 - ### you reach me at 
  
-  > greenwoodsky891@gmail.com
+  > WatashiWaAkuma@protonmail.com
 
   or on Discord
 
-  > @Parker#4527
+  > @AzukoAzuko#5590
