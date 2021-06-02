@@ -1,4 +1,4 @@
-- # Parker Uzuki / OkaVatti / Azuko
+- # Parker / Oka / Azuko
 - ## I go by many aliases
 - ## I like to break windows
 - ## Shell Script Goblin for life
