@@ -1,4 +1,5 @@
 - # Parker Uzuki / OkaVatti / AzukoAzuko
+- ## I go by many aliases
 - ## I like to break windows
 - ## Shell Script Goblin for life
 - ### you reach me at 
