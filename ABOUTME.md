@@ -20,7 +20,7 @@ ____
 
 - I'm currently unemployed.
 - I haven't had a "real" job yet
-- I basically work freelance for people in my area
+- I am currently searching for a job in my area
 
 ____
 ## Experience
@@ -29,10 +29,12 @@ ____
 - I've been activly coding for a few months now.
 
 ____
-## Unix or GNU/Linux 
-### (honestly just skip this part, I'm just going on a huge tangent about how I got into linux)
+## Computers
+### (honestly just skip this part, I'm just going on a huge tangent about what I prefer)
 
-I grew up using MacOS as a kid. Blah Blah Blah, family computer nonsense. Unix was cool, MacOS's UI has always been the best since OSX released. Beautiful backgrounds, simple, thoughtful design choices. Amazing OS. It's overpriced tho, and that's just not cool. Either way, I've been using linux for almost a year now. Started out on Ubuntu like most people did before Mint, Zorin, & PopOS got big. It was fine until I got stuck on something, can't remember if it was wifi drivers not working anymore or something else. I started Distro hopping, trying out literally everything under the sun, anything that would run on my craptop. Puppy, Void, Linux Lite, anything I could get my hands on, I had a library full of ISOs at some point. I had an addiction to VMs aswell. at one point I riced debian to look like Windows XP out of spite. At some point I installed Arch Linux on my PC and I grew accustomed to it. I like having a rolling release that provides me with the newest releases. Although it's a little unstable, I'm getting used to it.
+I grew up using MacOS as a kid. Blah Blah Blah, family computer nonsense. If I had to chose I would rather use anything Unix based than use Windows. It's harder to program on. It's filled with bloat. It runs slow as hell on any budget laptop. I would rather use Linux any day. I don't care much for Video Games so I literally have no need for Windows, I don't care for it that much either since the games I do play are all mostly linux compatable.
+
+2020 was the first year I actually got my first ever personal desktop. Like my own machine. I picked out the parts myself and plan on upgrading to better stuff down the line. I prefer AMD since their drivers are open-source and more compatable with Linux systems,like mine. I'll also end up getting a bit of a preformence boost once I get an AMD GPU after the prices drop
 ____
 
 # END
