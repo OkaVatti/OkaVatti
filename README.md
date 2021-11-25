@@ -64,6 +64,6 @@ I'm currently working on my website [SilkAbyss](https://silkabyss.com), but when
 
 [![gmail](https://img.shields.io/static/v1?label=&message=greenwoodsky891@gmail.com&color=white&style=for-the-badge&logo=gmail)](greenwoodsky891@gmail.com)
 
-[![twitter](https://img.shields.io/static/v1?label=&message=@Okavatti&color=black&style=for-the-badge&logo=twitter)](https://twitter,com/OkaVatti)
+[![twitter](https://img.shields.io/static/v1?label=&message=@Okavatti&color=black&style=for-the-badge&logo=twitter)](https://twitter.com/OkaVatti)
 
 [![My github page](https://img.shields.io/static/v1?label=&message=okavatti.github.io&color=gray&style=for-the-badge&logo=github)](https://okavatti.github.io/)
