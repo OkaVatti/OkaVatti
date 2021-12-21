@@ -11,7 +11,7 @@ I'm currently working on my website [SilkAbyss](https://silkabyss.com), but when
 
 ![Operating System](https://img.shields.io/static/v1?label=OS&message=Arch%20Linux%20/%20ElementaryOS%20/%20%20Windows%20%2011&color=2D68C4&?style=flat&logo=archlinux)
 
-![Text Editor](https://img.shields.io/static/v1?label=Text%20Editors&message=VScode%20/%20Nano%20/%20Obsidian&color=6A5ACD&?style=flat&logo=visualstudiocode)
+![Text Editor](https://img.shields.io/static/v1?label=Text%20Editors&message=VScode%20/%20Nano%20/%20VIM%20/%20Obsidian&color=6A5ACD&?style=flat&logo=visualstudiocode)
 
 ![DE / WM](https://img.shields.io/static/v1?label=DE%20/%20WM&message=KDE%20/%20i3-Gaps%20/%20BSPWM&color=24a5ff&?style=flat&logo=kde)
 
