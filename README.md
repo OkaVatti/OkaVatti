@@ -9,7 +9,7 @@ I'm currently working on my website [SilkAbyss](https://silkabyss.com), but when
 
 ## Parker's Development Environment
 
-![Operating System](https://img.shields.io/static/v1?label=OS&message=Arch%20Linux%20/%20ElementaryOS%20/%20%20Windows%20%2011&color=2D68C4&?style=flat&logo=archlinux)
+![Operating System](https://img.shields.io/static/v1?label=OS&message=ElementaryOS%20/%20%20Windows%20%2011%20/%20MacOS%2012.0&color=2D68C4&?style=flat&logo=archlinux)
 
 ![Text Editor](https://img.shields.io/static/v1?label=Text%20Editors&message=VScode%20/%20Nano%20/%20VIM%20/%20Obsidian&color=6A5ACD&?style=flat&logo=visualstudiocode)
 
@@ -27,18 +27,14 @@ I'm currently working on my website [SilkAbyss](https://silkabyss.com), but when
 	- <b>RAM</b> = GSkill TridentZ RGB 32GB DDR4 3200MHz
 	- <b>SSD</b> = a little over a TB at this point. really should just build a personal NAS with all this shit.
 
-- <b>Laptop Specs</b> <i>coming soooooooon</i> 
-<!--
-	- <b>MDL</b> = <b><i>14in Macbook Pro</i></b>
-	- <b>CPU</b> = <b><i>Apple M1 Pro, 10 Core</i></b>
+- <b>Laptop Specs</b> <i>spooky</i>
+	- <b>MDL</b> = <b><i>14in Macbook Pro 2021</i></b>
+	- <b>CPU</b> = <b><i>Apple M1 Pro, 8 Core</i></b> because multitasking is cool
 	- <b>GPU</b> = <b><i>14 Core GPU</i></b> That Know's What It's Job Is
 	- <b>NNG</b> = <b><i>16 Core Nueral Engine</i></b> that I probably won't use
-	- <b>RAM</b> = <b><i>32GB Unified</i></b> because similar pc specs, idk
+	- <b>RAM</b> = <b><i>16GB Unified</i></b> because that's all I ever really end up using
 	- <b>SDD</b> = <b><i>512GB SDD</i></b> I'll get a 2TB ExtSSD for like $80 later
 
-		decided to also get a few other things with it so the price came to a little over $3000. My mother's wallet is forever hurt. we may never financially recover from this.
-
--->
 ## Languages I Use
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OkaVatti&exclude_repo=DotFiles&langs_count=80&layout=default&theme=midnight-purple)
