@@ -9,7 +9,7 @@ I'm currently working on my website [SilkAbyss](https://silkabyss.com), but when
 
 ## Parker's Development Environment
 
-![Operating System](https://img.shields.io/static/v1?label=OS&message=ElementaryOS%20/%20%20Windows%20%2011%20/%20MacOS%2012.0&color=2D68C4&?style=flat&logo=archlinux)
+![Operating System](https://img.shields.io/static/v1?label=OS&message=Gentoo%20/%20%20Windows%20%2011%20/%20MacOS%2012.0&color=2D68C4&?style=flat&logo=archlinux)
 
 ![Text Editor](https://img.shields.io/static/v1?label=Text%20Editors&message=VScode%20/%20Nano%20/%20VIM%20/%20Obsidian&color=6A5ACD&?style=flat&logo=visualstudiocode)
 
