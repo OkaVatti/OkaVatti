@@ -51,15 +51,17 @@ Currently working on my custom programming language <b>Silk</b>, when I'm not wo
 ![OkaVatti](https://github-readme-stats.vercel.app/api?username=OkaVatti&show_icons=true&count_private=true&locale=en&include_all_commits=true&theme=midnight-purple)
 
 ## Favorite Repos
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=okavatti&repo=Silk)](https://github.com/okavatti/Silk)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=okavatti&repo=SilkLang)](https://github.com/okavatti/SilkLang)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=okavatti&repo=reifetch)](https://github.com/okavatti/reifetch)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=okavatti&repo=fuck-cpp)](https://github.com/okavatti/fuck-cpp)
+<!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=okavatti&repo=fuck-cpp)](https://github.com/okavatti/fuck-cpp)-->
 
 ## Contact info
 
 [![gmail](https://img.shields.io/static/v1?label=&message=greenwoodsky891@gmail.com&color=white&style=for-the-badge&logo=gmail)](greenwoodsky891@gmail.com)
+
+[![protonmail](https://img.shields.io/static/v1?label=&message=okavatti@protonmail.com&color=white&style=for-the-badge&logo=protonmamil)](okavatti@protonmail.com)
 
 [![twitter](https://img.shields.io/static/v1?label=&message=@Okavatti&color=black&style=for-the-badge&logo=twitter)](https://twitter.com/OkaVatti)
 
