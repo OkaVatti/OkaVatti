@@ -25,7 +25,8 @@ Currently working on my custom programming language <b>Silk</b>, when I'm not wo
 	- <b>CPU</b> = Ryzen 5 5600G, 6C, 12T, 3.9Mhz BC, 4.4Mhz OC
 	- <b>GPU</b> = N/A (Fuck the shortage)
 	- <b>RAM</b> = GSkill TridentZ RGB 32GB DDR4 3200MHz
-	- <b>SSD</b> = a little over a TB at this point. really should just build a personal NAS with all this shit.
+	- <b>SSD</b> = 500GB NVME M.2
+	- <b>HDD</b> = 320GB (for games)
 
 - <b>Laptop Specs</b> <i>spooky</i>
 	- <b>MDL</b> = <b><i>14in Macbook Pro 2021</i></b>
