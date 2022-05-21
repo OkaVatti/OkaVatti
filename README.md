@@ -17,7 +17,7 @@ I'm currently working on my website [SilkAbyss](https://silkabyss.com), but when
 
 ![Shells](https://img.shields.io/static/v1?label=Shells&message=ZSH%20/%20PowerShell&color=1d1160&?style=flat&logo=powershell)
 
-![Web Browsers](https://img.shields.io/static/v1?label=Browser&message=Firefox%20/%20Beaker&color=6F00FF&?style=flat&logo=torbrowser)
+![Web Browsers](https://img.shields.io/static/v1?label=Browser&message=Firefox%20/%20Librewolf&color=6F00FF&?style=flat&logo=torbrowser)
 
 ## My Specs
 
