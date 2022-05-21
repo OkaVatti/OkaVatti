@@ -5,7 +5,7 @@
 I am 16 years old.\
 I'm currently attending High School, studying to get into some boring ass college on the west coast\
 In my free time I like to code. \
-I'm currently working on my website [SilkAbyss](https://silkabyss.com), but when I'm not working on that I'm usually learning <b>ShellScript <!--<i>(Bash and maybe one day Fish)</i> --></b>, <b>C</b>, <b>C#</b>, and <b>C++</b>. or I'm working on small little projects that revolve around those languages.
+Currently working on my custom programming language <b>Silk</b>, when I'm not working on that tho I'm usually learning about Network and Server related things <!--<i>(Bash and maybe one day Fish)</i> --></b>, <b>C</b>, <b>C#</b>, and <b>C++</b>. or I'm working on small little projects that revolve around those languages.
 
 ## Parker's Development Environment
 
