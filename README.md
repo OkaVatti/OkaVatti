@@ -23,10 +23,11 @@ Not doing much at the moment.
 
 - <b>PC Specs</b>
 	- <b>CPU</b> = Ryzen 5 5600G, 6C, 12T, 3.9Mhz BC, 4.4Mhz OC
-	- <b>GPU</b> = N/A (Fuck the shortage)
+	- <b>GPU</b> = AMD Radeon RX 5600XT, 4GB
 	- <b>RAM</b> = GSkill TridentZ RGB 32GB DDR4 3200MHz
-	- <b>SSD</b> = 500GB NVME M.2
-	- <b>HDD</b> = 320GB (for games)
+	- <b>SSD</b> = 500GB NVME M.2 (OS)
+	- <b>SSD</b> = 1TB NVME M.2 (games, video, code)
+	- <b>HDD</b> = 320GB (random)
 
 - <b>Laptop Specs</b> <i>spooky</i>
 	- <b>MDL</b> = <b><i>14in Macbook Pro 2021</i></b>
@@ -60,8 +61,8 @@ Not doing much at the moment.
 
 [![gmail](https://img.shields.io/static/v1?label=&message=greenwoodsky891@gmail.com&color=white&style=for-the-badge&logo=gmail)](greenwoodsky891@gmail.com)
 
-[![protonmail](https://img.shields.io/static/v1?label=&message=okavatti@protonmail.com&color=white&style=for-the-badge&logo=protonmamil)](okavatti@protonmail.com)
+[![protonmail](https://img.shields.io/static/v1?label=&message=okavatti@protonmail.com&color=white&style=for-the-badge&logo=protonmamil)](okavatti@proton.me)
 
-[![twitter](https://img.shields.io/static/v1?label=&message=@Okavatti&color=black&style=for-the-badge&logo=twitter)](https://twitter.com/OkaVatti)
+[![twitter](https://img.shields.io/static/v1?label=&message=@Okavatti&color=black&style=for-the-badge&logo=twitter)](https://twitter.com/virumexkwake)
 
 [![My github page](https://img.shields.io/static/v1?label=&message=okavatti.github.io&color=gray&style=for-the-badge&logo=github)](https://okavatti.github.io/)
