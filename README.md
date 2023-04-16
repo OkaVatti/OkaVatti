@@ -5,7 +5,7 @@
 I am 17 years old.\
 I'm currently attending High School, studying to get into some boring ass college on the west coast\
 In my free time I like to code. \
-Currently working on my custom programming language <b>Silk</b>, when I'm not working on that tho I'm usually learning about Network and Server related things <!--<i>(Bash and maybe one day Fish)</i> --></b>, <b>C</b>, <b>C#</b>, and <b>C++</b>. or I'm working on small little projects that revolve around those languages.
+Not doing much at the moment.
 
 ## Parker's Development Environment
 
@@ -51,7 +51,6 @@ Currently working on my custom programming language <b>Silk</b>, when I'm not wo
 ![OkaVatti](https://github-readme-stats.vercel.app/api?username=OkaVatti&show_icons=true&count_private=true&locale=en&include_all_commits=true&theme=midnight-purple)
 
 ## Favorite Repos
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=okavatti&repo=SilkLang)](https://github.com/okavatti/SilkLang)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=okavatti&repo=reifetch)](https://github.com/okavatti/reifetch)
 
