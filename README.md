@@ -7,35 +7,49 @@ I'm currently attending High School, studying to get into some boring ass colleg
 In my free time I like to code. \
 Not doing much at the moment.
 
-## Parker's Development Environment
+## Development Environment (PC)
 
-![Operating System](https://img.shields.io/static/v1?label=OS&message=Gentoo%20/%20%20Windows%20%2011%20/%20MacOS%2012.0&color=2D68C4&?style=flat&logo=archlinux)
+![Operating System](https://img.shields.io/badge/Windows_11-0078d4?style=for-the-badge&logo=windows11&logoColor=white)
 
-![Text Editor](https://img.shields.io/static/v1?label=Text%20Editors&message=VScode%20/%20Nano%20/%20VIM%20/%20Obsidian&color=6A5ACD&?style=flat&logo=visualstudiocode)
+![IDE](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 
-![DE / WM](https://img.shields.io/static/v1?label=DE%20/%20WM&message=KDE%20/%20i3-Gaps%20/%20BSPWM&color=24a5ff&?style=flat&logo=kde)
+![Terminal](https://img.shields.io/badge/Fluent_Terminal-000000?style=for-the-badge&logo=windowsterminal&logoColor=white)
 
-![Shells](https://img.shields.io/static/v1?label=Shells&message=ZSH%20/%20PowerShell&color=1d1160&?style=flat&logo=powershell)
+![Shells](https://img.shields.io/badge/Powershell-000000?style=for-the-badge&logo=powershell&logoColor=white)
 
-![Web Browsers](https://img.shields.io/static/v1?label=Browser&message=Firefox%20/%20Librewolf&color=6F00FF&?style=flat&logo=torbrowser)
+![Web Browsers](https://img.shields.io/badge/Firefox_Browser-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white)
+
+## Development Environment (Macbook)
+
+![Operating System](https://img.shields.io/badge/macOS_Ventura-000000?style=for-the-badge&logo=apple&logoColor=white)
+
+![Text Editor](https://img.shields.io/badge/VIM-%2311AB00.svg?&style=for-the-badge&logo=vim&logoColor=white)
+
+![IDE](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+
+![Terminal](https://img.shields.io/badge/iTerm2-000000?style=for-the-badge&logo=iterm2&logoColor=white)
+
+![Shells](https://img.shields.io/badge/ZSH-000000?style=for-the-badge&logo=gnubash&logoColor=white)
+
+![Web Browsers](https://img.shields.io/badge/Firefox_Browser-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white)
 
 ## My Specs
 
 - <b>PC Specs</b>
-	- <b>CPU</b> = Ryzen 5 5600G, 6C, 12T, 3.9Mhz BC, 4.4Mhz OC
-	- <b>GPU</b> = AMD Radeon RX 5600XT, 4GB
-	- <b>RAM</b> = GSkill TridentZ RGB 32GB DDR4 3200MHz
-	- <b>SSD</b> = 500GB NVME M.2 (OS)
-	- <b>SSD</b> = 1TB NVME M.2 (games, video, code)
-	- <b>HDD</b> = 320GB (random)
+	- ![CPU](https://img.shields.io/badge/AMD_Ryzen_5_5600G-ED1C24?style=for-the-badge&logo=amd)
+	- ![GPU](https://img.shields.io/badge/AMD_Radeon_RX_5600_XT-ED1C24?style=for-the-badge&logo=amd)
+	- ![RAM](https://img.shields.io/badge/32GB_RAM_3200MHz-ED1C24?style=for-the-badge&logo=corsair)
+	- ![SSD](https://img.shields.io/badge/500GB_NVME_SSD-ED1C24?style=for-the-badge&logo=westerndigital)
+	- ![SSD](https://img.shields.io/badge/1TB_NVME_SSD-ED1C24?style=for-the-badge&logo=westerndigital)
+	- ![HDD](https://img.shields.io/badge/320GB_NVME_SSD-ED1C24?style=for-the-badge&logo=westerndigital)
 
 - <b>Laptop Specs</b> <i>spooky</i>
-	- <b>MDL</b> = <b><i>14in Macbook Pro 2021</i></b>
-	- <b>CPU</b> = <b><i>Apple M1 Pro, 8 Core</i></b> because multitasking is cool
-	- <b>GPU</b> = <b><i>14 Core GPU</i></b> That Know's What It's Job Is
-	- <b>NNG</b> = <b><i>16 Core Nueral Engine</i></b> that I probably won't use
-	- <b>RAM</b> = <b><i>16GB Unified</i></b> because that's all I ever really end up using
-	- <b>SDD</b> = <b><i>512GB SDD</i></b> I'll get a 2TB ExtSSD for like $80 later
+	- ![MODEL](https://img.shields.io/badge/2021_14in_Macbook_Pro-131313?style=for-the-badge&logo=apple)
+	- ![CPU](https://img.shields.io/badge/M1_Pro,_8_Core_CPU-131313?style=for-the-badge&logo=apple)
+	- ![GPU](https://img.shields.io/badge/M1_Pro,_14_Core_GPU-131313?style=for-the-badge&logo=apple)
+	- ![NNG](https://img.shields.io/badge/M1_Pro,_16_Core_Nueral_Engine-131313?style=for-the-badge&logo=apple)
+	- ![RAM](https://img.shields.io/badge/M1_Pro,_16GB_Unified-131313?style=for-the-badge&logo=apple)
+	- ![SSD](https://img.shields.io/badge/M1_Pro,_512GB_SSD-131313?style=for-the-badge&logo=apple)
 
 ## Languages I Use
 
@@ -63,6 +77,6 @@ Not doing much at the moment.
 
 [![protonmail](https://img.shields.io/static/v1?label=&message=okavatti@protonmail.com&color=white&style=for-the-badge&logo=protonmamil)](okavatti@proton.me)
 
-[![twitter](https://img.shields.io/static/v1?label=&message=@Okavatti&color=black&style=for-the-badge&logo=twitter)](https://twitter.com/virumexkwake)
+[![twitter](https://img.shields.io/badge/virumexkwake-131313?style=for-the-badge&logo=twitter)](https://twitter.com/virumexkwake)
 
 [![My github page](https://img.shields.io/static/v1?label=&message=okavatti.github.io&color=gray&style=for-the-badge&logo=github)](https://okavatti.github.io/)
