@@ -2,10 +2,9 @@
 
 ## some stuff about meeeeeeeeee
 
-I am 17 years old.\
-I'm currently attending High School, studying to get into some boring ass college on the west coast\
-In my free time I like to code. \
-Not doing much at the moment.
+adult\
+trying to find the motivation to continue coding\
+Not doing much at the moment.\
 
 ## Development Environment (PC)
 
