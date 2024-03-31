@@ -16,12 +16,6 @@ Currently working on;
 
 ![OkaVatti](https://github-readme-stats.vercel.app/api?username=OkaVatti&show_icons=true&count_private=true&locale=en&include_all_commits=true&theme=midnight-purple)
 
-## Favorite Repos
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=okavatti&repo=reifetch)](https://github.com/okavatti/reifetch)
-
-<!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=okavatti&repo=fuck-cpp)](https://github.com/okavatti/fuck-cpp)-->
-
 ## Contact info
 
 [![protonmail](https://img.shields.io/static/v1?label=&message=okavatti@protonmail.com&color=white&style=for-the-badge&logo=protonmamil)](okavatti@proton.me)
