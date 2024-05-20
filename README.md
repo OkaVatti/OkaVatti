@@ -6,6 +6,7 @@ When I'm not programming I enjoy writing, cooking, skateboarding, and playing vi
 Currently working on;
 - "Sepiidae"
 - "Tomark"
+- My Github Pages
 
 ## Known libraries and frameworks
 - [Vue.js](https://vuejs.org/)
