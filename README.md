@@ -1,27 +1,51 @@
-# Hi, I'm Lilith
+# Lilith
+also known as;
 
-I'm a college student attending UAkron.
-When I'm not programming I enjoy writing, cooking, skateboarding, and playing video games.
+- LP
+- Sap
+- Oka
 
+bipolar college reject
+
+"computers should not speak unless spoken to"
+
+___
 Currently working on;
+
 - "Catacomb"
+  - Locally hosted secure password manager
+  - (because i'm sick of paying these hoes for basic features)
+
 - "Sepiidae"
-- "Tomark"
-- My Github Pages
+  - Backend SQL-like database written in rust
+  - (hobby project of mine. mainly a proof of concept. will likely never be ready for production)
 
-## Known libraries and frameworks
+- "Blueberry" / "Bottletail"
+  - Experimental, prototype for an ethical imageboard-like microblogging social media platform.
+  - (i like imageboards and microblogging but i hate the corporations and people that run them)
+
+- My Github Pages (on hiatus until Nuxt 4 releases)
+___
+## Languages I'm Familiar With
+
+- [Bash](https://www.gnu.org/software/bash/) + [POSIX Shell](https://pubs.opengroup.org/onlinepubs/9799919799/)
+- [Crystal](https://crystal-lang.org/)
+- [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) + [TypeScript](https://www.typescriptlang.org/)
+- [Perl](https://www.perl.org/)
+- [Ruby](https://www.ruby-lang.org/en/)
+- [Rust](https://www.rust-lang.org/)
+
+## Known Libraries and Frameworks
+
 - [Vue.js](https://vuejs.org/)
-- [Nuxt](Nuxt.com)
+- [Nuxt](https://nuxt.com)
 - [Express](https://expressjs.com/)
-
+- [Amber](https://amberframework.org)
+___
 ## My Stats
 
 ![OkaVatti](https://github-readme-stats.vercel.app/api?username=OkaVatti&show_icons=true&count_private=true&locale=en&include_all_commits=true&theme=midnight-purple)
 
 ## Contact info
 
-[![protonmail](https://img.shields.io/static/v1?label=&message=okavatti@protonmail.com&color=white&style=for-the-badge&logo=protonmamil)](okavatti@proton.me)
-
-[![twitter](https://img.shields.io/badge/virumexkwake-131313?style=for-the-badge&logo=twitter)](https://twitter.com/virumexkwake)
-
-[![My github page](https://img.shields.io/static/v1?label=&message=okavatti.github.io&color=gray&style=for-the-badge&logo=github)](https://okavatti.github.io/)
+don't
