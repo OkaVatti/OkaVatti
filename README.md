@@ -16,13 +16,13 @@ Currently working on;
   - Locally hosted secure password manager
   - (because i'm sick of paying these hoes for basic features)
 
-- "Sepiidae"
-  - Backend SQL-like database written in rust
-  - (hobby project of mine. mainly a proof of concept. will likely never be ready for production)
-
 - "Blueberry" / "Bottletail"
   - Experimental, prototype for an ethical imageboard-like microblogging social media platform.
   - (i like imageboards and microblogging but i hate the corporations and people that run them)
+
+- "Bottletype"
+  - Markdown Based Locally Hosted Doc Writed
+  - (Locally Hosted ALternative to Google Docs)
 
 - My Github Pages (on hiatus until Nuxt 4 releases)
 ___
